@@ -4,8 +4,8 @@
 ----------
 **Highlights**
 ----------
- - Weights of the visual quality disc has been updated in readme!
- - Lip-sync videos to any target speech with high accuracy :100:.
- - :sparkles: Works for any identity, voice, and language. Also works for CGI faces and synthetic voices.
- - Complete training code, inference code, and pretrained models are available :boom:
- - Or, quick-start with the Google Colab Notebook: [Link](https://colab.research.google.com/drive/1VHof_jhHvWlCtIeQNLFBGqJzDqCdJ9U4?usp=sharing).
+ - The visual quality discriminator's weights have been recently revised in the readme.
+ - Achieve precise lip-syncing in videos to match any target speech with utmost accuracy :100:.
+ - Compatible with all identities, voices, and languages, including CGI faces and synthetic voices. :sparkles: .
+ - Access comprehensive training code, inference code, and pretrained models :boom:
+ - Alternatively, get started quickly using the Google Colab Notebook [Link](https://colab.research.google.com/drive/1VHof_jhHvWlCtIeQNLFBGqJzDqCdJ9U4?usp=sharing).
