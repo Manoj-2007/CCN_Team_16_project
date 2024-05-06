@@ -1,10 +1,11 @@
 # Team16 - Wav2Lip: Precision Lip-syncing for Real-world Videos"
 
-----------
+###----------
 **About**
 ----------
 This repository hosts the code for "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild". It provides a comprehensive toolkit for generating accurate lip movements from speech in diverse real-world scenarios. With this technology, achieve seamless lip-syncing for any speech input, offering a versatile solution for various applications.
-----------
+----------###
+
 **Highlights**
 ----------
  - The visual quality discriminator's weights have been recently revised in the readme.
